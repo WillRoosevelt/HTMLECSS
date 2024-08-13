@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1em;
+    font-weight: 800;
+} 
+h1 {
+    /* posso usar o shorthand para colocar tudo numa linha so
+
+    a ordem vai ser
+    font style -> font weight -> font size -> font family  */
+font: italic lighter 20px arial;
+}
